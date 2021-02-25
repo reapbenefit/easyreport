@@ -11,7 +11,7 @@ for image in Input/*; do
 	GPS_info=$( echo "$info" | tail -n +26 | head -n +4) 
 	
 	echo "$GPS_info"
-	if [  "$( echo "$GPS_info" | tail -n +26 | head -n +4 | awk '{print $4;}' | head -n 1)" == "0.000000" ];
+	if [  "$( echo "$GPS_info" | awk '{print $4;}' | head -n 1)" == "0.000000" ];
 	then
 		noGPS=$(($noGPS+1))
 	else
@@ -23,4 +23,3 @@ done
 echo -e "\nTotal Images: " $(($noGPS+$GPS))
 echo "Images with GPS Data:    "$GPS
 echo "Images without GPS data: "$noGPS
-
