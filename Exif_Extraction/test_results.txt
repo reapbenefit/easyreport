@@ -1,0 +1,213 @@
+
+Input/Gautam - 06337B11-F2C2-4FBE-996E-5462CF7D0A42.jpeg
+GPS Latitude         : 12.924675 deg (12.000000 deg, 55.000000 min, 28.830000 sec N)
+GPS Longitude        : 77.586792 deg (77.000000 deg, 35.000000 min, 12.450000 sec E)
+GPS Altitude         : 922.633422 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 1518347F-D03A-4D42-93FB-4F55EB53BDEC.jpeg
+GPS Latitude         : 12.927022 deg (12.000000 deg, 55.000000 min, 37.280000 sec N)
+GPS Longitude        : 77.591264 deg (77.000000 deg, 35.000000 min, 28.550000 sec E)
+GPS Altitude         : 920.072654 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 1B0067AD-D2EC-4AB3-95F6-3AECD7F8438D.jpeg
+GPS Latitude         : 12.925508 deg (12.000000 deg, 55.000000 min, 31.830000 sec N)
+GPS Longitude        : 77.593506 deg (77.000000 deg, 35.000000 min, 36.620000 sec E)
+GPS Altitude         : 921.703441 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 1B17B8EB-224E-4038-9F29-B3E0B84D239C.jpeg
+GPS Latitude         : 12.958158 deg (12.000000 deg, 57.000000 min, 29.370000 sec N)
+GPS Longitude        : 77.569581 deg (77.000000 deg, 34.000000 min, 10.490000 sec E)
+GPS Altitude         : 904.156934 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 2291C895-F277-4D27-B38A-E98F06889417.jpeg
+GPS Latitude         : 12.957236 deg (12.000000 deg, 57.000000 min, 26.050000 sec N)
+GPS Longitude        : 77.569442 deg (77.000000 deg, 34.000000 min, 9.990000 sec E)
+GPS Altitude         : 901.740464 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 23F9D529-BE82-445A-83EC-3D9CCFB34437.jpeg
+GPS Latitude         : 12.956378 deg (12.000000 deg, 57.000000 min, 22.960000 sec N)
+GPS Longitude        : 77.569672 deg (77.000000 deg, 34.000000 min, 10.820000 sec E)
+GPS Altitude         : 899.296512 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 2CE2E350-D565-480B-BBBB-FC3031B37ED0.jpeg
+GPS Latitude         : 12.927008 deg (12.000000 deg, 55.000000 min, 37.230000 sec N)
+GPS Longitude        : 77.590994 deg (77.000000 deg, 35.000000 min, 27.580000 sec E)
+GPS Altitude         : 920.472227 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 2F15CE3C-9ABE-4D10-8998-358491A71A7B.jpeg
+GPS Latitude         : 12.956364 deg (12.000000 deg, 57.000000 min, 22.910000 sec N)
+GPS Longitude        : 77.569847 deg (77.000000 deg, 34.000000 min, 11.450000 sec E)
+GPS Altitude         : 899.043300 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 37BD6174-4873-4C05-8482-33567F1BD0FD.jpeg
+GPS Latitude         : 12.958825 deg (12.000000 deg, 57.000000 min, 31.770000 sec N)
+GPS Longitude        : 77.568519 deg (77.000000 deg, 34.000000 min, 6.670000 sec E)
+GPS Altitude         : 900.966591 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 4A6FD08A-7477-4AB0-B9A9-7E28A14E4F5C.jpeg
+GPS Latitude         : 12.950478 deg (12.000000 deg, 57.000000 min, 1.720000 sec N)
+GPS Longitude        : 77.569258 deg (77.000000 deg, 34.000000 min, 9.330000 sec E)
+GPS Altitude         : 898.139466 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 4C9C3E33-4E8A-4554-9CAE-C4F606B769A7.jpeg
+GPS Latitude         : 12.927008 deg (12.000000 deg, 55.000000 min, 37.230000 sec N)
+GPS Longitude        : 77.592194 deg (77.000000 deg, 35.000000 min, 31.900000 sec E)
+GPS Altitude         : 919.518400 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 5098221E-AEAB-4DB9-9E3C-C60074075EF3.jpeg
+GPS Latitude         : 12.925381 deg (12.000000 deg, 55.000000 min, 31.370000 sec N)
+GPS Longitude        : 77.593514 deg (77.000000 deg, 35.000000 min, 36.650000 sec E)
+GPS Altitude         : 921.812023 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 66720911-D0DB-481F-8A1C-19FD3B779ECA.jpeg
+GPS Latitude         : 12.926981 deg (12.000000 deg, 55.000000 min, 37.130000 sec N)
+GPS Longitude        : 77.593353 deg (77.000000 deg, 35.000000 min, 36.070000 sec E)
+GPS Altitude         : 918.103635 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 6A229CF6-3397-4566-A378-F554381200AC.jpeg
+GPS Latitude         : 12.927047 deg (12.000000 deg, 55.000000 min, 37.370000 sec N)
+GPS Longitude        : 77.591369 deg (77.000000 deg, 35.000000 min, 28.930000 sec E)
+GPS Altitude         : 920.144163 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 77555DFC-5566-4B92-9AD8-06B8ED6D5859.jpeg
+GPS Latitude         : 12.926947 deg (12.000000 deg, 55.000000 min, 37.010000 sec N)
+GPS Longitude        : 77.591531 deg (77.000000 deg, 35.000000 min, 29.510000 sec E)
+GPS Altitude         : 920.203051 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 77E17340-DC13-4209-843B-B74FBECA8D59.jpeg
+GPS Latitude         : 12.925114 deg (12.000000 deg, 55.000000 min, 30.410000 sec N)
+GPS Longitude        : 77.589761 deg (77.000000 deg, 35.000000 min, 23.140000 sec E)
+GPS Altitude         : 918.063676 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 7F279DDF-CA21-48B9-8B3A-C1E06FAFA842.jpeg
+GPS Latitude         : 12.956378 deg (12.000000 deg, 57.000000 min, 22.960000 sec N)
+GPS Longitude        : 77.569503 deg (77.000000 deg, 34.000000 min, 10.210000 sec E)
+GPS Altitude         : 899.312092 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 806AAF4E-48DB-44B3-A701-EC20B92F55F7.jpeg
+GPS Latitude         : 12.952311 deg (12.000000 deg, 57.000000 min, 8.320000 sec N)
+GPS Longitude        : 77.569886 deg (77.000000 deg, 34.000000 min, 11.590000 sec E)
+GPS Altitude         : 903.198824 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 93360784-6D19-4BAA-9F08-EFE28A7D9917.jpeg
+GPS Latitude         : 12.956464 deg (12.000000 deg, 57.000000 min, 23.270000 sec N)
+GPS Longitude        : 77.569558 deg (77.000000 deg, 34.000000 min, 10.410000 sec E)
+GPS Altitude         : 899.485719 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 94C5D0C3-22BF-445A-8FA7-1595E69193E4.jpeg
+GPS Latitude         : 12.950444 deg (12.000000 deg, 57.000000 min, 1.600000 sec N)
+GPS Longitude        : 77.569236 deg (77.000000 deg, 34.000000 min, 9.250000 sec E)
+GPS Altitude         : 903.991076 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 986F9B0D-BA86-41DB-961E-7B2D206DC516.jpeg
+GPS Latitude         : 12.953250 deg (12.000000 deg, 57.000000 min, 11.700000 sec N)
+GPS Longitude        : 77.569869 deg (77.000000 deg, 34.000000 min, 11.530000 sec E)
+GPS Altitude         : 901.624619 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - 9A926E07-AAF9-4690-90E9-BFCFCC5DE4E0.jpeg
+GPS Latitude         : 12.958906 deg (12.000000 deg, 57.000000 min, 32.060000 sec N)
+GPS Longitude        : 77.568969 deg (77.000000 deg, 34.000000 min, 8.290000 sec E)
+GPS Altitude         : 903.626310 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - A56331BD-8C1B-47D8-9E78-4F32B2F1C7D9.jpeg
+GPS Latitude         : 12.958947 deg (12.000000 deg, 57.000000 min, 32.210000 sec N)
+GPS Longitude        : 77.569053 deg (77.000000 deg, 34.000000 min, 8.590000 sec E)
+GPS Altitude         : 903.172519 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - B575C3C5-08AC-4BFC-BD7F-EC564F8BCB84.jpeg
+GPS Latitude         : 12.951383 deg (12.000000 deg, 57.000000 min, 4.980000 sec N)
+GPS Longitude        : 77.569978 deg (77.000000 deg, 34.000000 min, 11.920000 sec E)
+GPS Altitude         : 904.302205 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - B6A1A48A-B5A3-4D92-95AB-43BFBF055CD4.jpeg
+GPS Latitude         : 12.950464 deg (12.000000 deg, 57.000000 min, 1.670000 sec N)
+GPS Longitude        : 77.569397 deg (77.000000 deg, 34.000000 min, 9.830000 sec E)
+GPS Altitude         : 904.245330 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - B843B501-9C64-4905-84A4-F192835AE6D7.jpeg
+GPS Latitude         : 12.924681 deg (12.000000 deg, 55.000000 min, 28.850000 sec N)
+GPS Longitude        : 77.587014 deg (77.000000 deg, 35.000000 min, 13.250000 sec E)
+GPS Altitude         : 922.873362 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - D2B97999-4ACC-4C4B-9D2C-99DBA3D9C0B7.jpeg
+GPS Latitude         : 12.926506 deg (12.000000 deg, 55.000000 min, 35.420000 sec N)
+GPS Longitude        : 77.593758 deg (77.000000 deg, 35.000000 min, 37.530000 sec E)
+GPS Altitude         : 918.860952 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - DBEB39E5-090B-47CA-A684-0D0072AB908D.jpeg
+GPS Latitude         : 12.950817 deg (12.000000 deg, 57.000000 min, 2.940000 sec N)
+GPS Longitude        : 77.569931 deg (77.000000 deg, 34.000000 min, 11.750000 sec E)
+GPS Altitude         : 906.417986 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - E38C2C9D-42B6-4178-A23D-177426E20D66.jpeg
+GPS Latitude         : 12.958397 deg (12.000000 deg, 57.000000 min, 30.230000 sec N)
+GPS Longitude        : 77.569558 deg (77.000000 deg, 34.000000 min, 10.410000 sec E)
+GPS Altitude         : 904.684220 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - E671480E-F57F-4C46-AE7E-CD627ED7AEA4.jpeg
+GPS Latitude         : 12.958000 deg (12.000000 deg, 57.000000 min, 28.800000 sec N)
+GPS Longitude        : 77.569511 deg (77.000000 deg, 34.000000 min, 10.240000 sec E)
+GPS Altitude         : 902.762075 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - EBE36953-AEFE-4DAF-866C-1FC946B590E6.jpeg
+GPS Latitude         : 12.926989 deg (12.000000 deg, 55.000000 min, 37.160000 sec N)
+GPS Longitude        : 77.592453 deg (77.000000 deg, 35.000000 min, 32.830000 sec E)
+GPS Altitude         : 920.071635 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - FADF1A5C-9DFE-4BF9-8146-56235336EBA5.jpeg
+GPS Latitude         : 12.951981 deg (12.000000 deg, 57.000000 min, 7.130000 sec N)
+GPS Longitude        : 77.569856 deg (77.000000 deg, 34.000000 min, 11.480000 sec E)
+GPS Altitude         : 903.670567 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - FD0164DB-D145-4F10-87DB-433533072D0A.jpeg
+GPS Latitude         : 12.924297 deg (12.000000 deg, 55.000000 min, 27.470000 sec N)
+GPS Longitude        : 77.587211 deg (77.000000 deg, 35.000000 min, 13.960000 sec E)
+GPS Altitude         : 923.515400 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - FF2ED2AF-5901-4D3B-8663-F906E83A6B42.jpeg
+GPS Latitude         : 12.957361 deg (12.000000 deg, 57.000000 min, 26.500000 sec N)
+GPS Longitude        : 77.569542 deg (77.000000 deg, 34.000000 min, 10.350000 sec E)
+GPS Altitude         : 901.839339 m
+GPS Precision (DOP)  : 0.000000
+
+Input/Gautam - image.jpg
+GPS Latitude         : 0.000000 deg (0.000000 deg, 0.000000 min, 0.000000 sec ?)
+GPS Longitude        : 0.000000 deg (0.000000 deg, 0.000000 min, 0.000000 sec ?)
+GPS Altitude         : 0.000000 m
+GPS Precision (DOP)  : 0.000000
+Total Images:  35
+Images with GPS Data:    34
+Images without GPS data: 1
